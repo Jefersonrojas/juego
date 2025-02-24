@@ -1,4 +1,4 @@
-# 🥦 [Nombre del Juego] 🍎  
+# 🥦 [HEALTHY LIVING] 🍎  
 
 **¡Bienvenido a [Nombre del Juego], el juego que promueve la alimentación saludable!**  
 
