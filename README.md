@@ -1,4 +1,4 @@
-# 🥦 [HEALTHY LIVING] 🍎  
+# 🥦 BATLE FOR NUTRITION 🍎  
 
 **¡Bienvenido a [Nombre del Juego], el juego que promueve la alimentación saludable!**  
 
@@ -44,5 +44,9 @@ El protagonista es un defensor de la alimentación saludable que debe enfrentars
 Este juego no solo busca **entretener**, sino también **educar** sobre la importancia de una alimentación saludable y cómo impacta en la energía y vitalidad. A través de una mecánica interactiva y divertida, reforzamos el mensaje de que nuestras elecciones alimenticias afectan nuestro bienestar.  
 
 ---
+## 🖼️ Vista del Juego  
+
+![Captura de pantalla del juego](https://imgur.com/a/vGEUEeT)
+
 
 📌 *¡Descubre la mejor estrategia y conviértete en el defensor de la salud!* 🌿🔥  
