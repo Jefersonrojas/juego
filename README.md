@@ -45,8 +45,9 @@ Este juego no solo busca **entretener**, sino también **educar** sobre la impor
 
 ---
 ## 🖼️ Vista del Juego  
-
-![Captura de pantalla del juego]([![Captura-de-pantalla-716.png](https://i.postimg.cc/43DdVPCy/Captura-de-pantalla-716.png)](https://postimg.cc/3yZYHgxQ))
+<p align="center">
+    <img src="https://i.postimg.cc/43DdVPCy/Captura-de-pantalla-716.png)](https://postimg.cc/3yZYHgxQ)"" width="1000" alt="logo">
+  </p>  
 
 
 📌 *¡Descubre la mejor estrategia y conviértete en el defensor de la salud!* 🌿🔥  
