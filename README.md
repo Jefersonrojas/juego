@@ -1,6 +1,6 @@
 # 🥦 BATLE FOR NUTRITION 🍎  
 
-**¡Bienvenido a [Nombre del Juego], el juego que promueve la alimentación saludable!**  
+**¡Bienvenido a batalla por la nutricion, el juego que promueve la alimentación saludable!**  
 
 En un mundo donde la alimentación define la energía y la vitalidad de los seres humanos, nace un héroe dispuesto a luchar contra los malos hábitos alimenticios. Este juego de acción y estrategia pone a prueba la habilidad del jugador para promover una vida saludable mientras enfrenta desafíos constantes.  
 
